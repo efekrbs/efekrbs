@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is efa and I'm a student hwo keen on algorithms andsome coding project.</h2>
+<h2 align="left">Hi 👋! My name is efa and I'm a student hwo keen on algorithms and some coding project.</h2>
 
 ###
 
