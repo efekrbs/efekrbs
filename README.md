@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm efe</h1>
 <h3 align="center">I am an student work for algorithmics and some coding project.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=efekrbs" alt="efekrbs" /></a> </p>
-
 - 🔭 I’m currently working on [LeetCode problems](https://leetcode.com/u/efekrbs/)
 
 <h3 align="left">Connect with me:</h3>
