@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is efa and I'm a student hwo keen on algorithms and some coding project.</h2>
+<h2 align="left">Hi 👋! My name is efa and I'm a student hwo keen on algorithms andsome coding project.</h2>
 
 ###
 
@@ -47,6 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/efekrbs/efekrbs/output/snake.svg" alt="Snake animation" />
 
 ###
