@@ -17,8 +17,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=efekrbs&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
   
-  <img src="https://streak-stats.demolab.com/?user=efekrbs&theme=dracula&hide_border=false" height="150" alt="streak graph" />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=efekrbs&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
