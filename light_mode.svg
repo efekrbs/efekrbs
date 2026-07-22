@@ -17,31 +17,31 @@ text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
 <text x="15" y="30" fill="#24292f" class="ascii">
-<tspan x="15" y="30">                                                    </tspan>
-<tspan x="15" y="50">          :::;+;;;;;;++;;::                         </tspan>
-<tspan x="15" y="70">       :;;;;;;;:;;;++;;;;;;;;;:                     </tspan>
-<tspan x="15" y="90">     :+;:;;;;:;:;;;::;::;;;;;;;;;;::                </tspan>
-<tspan x="15" y="110">   :;;;::;;;;;:;:::::;;;;;;;;;;;;:::::              </tspan>
-<tspan x="15" y="130">  :;;;:::::::::;;;;;;;;;;;;;;;;;;;;;;::::           </tspan>
-<tspan x="15" y="150">  :;::::::::::::;;;;;;;;;;::;;;;;;;;;;;;::::        </tspan>
-<tspan x="15" y="170">  ;;::::::;:::;;;:;;;;;;;:;;;;;;;;;:;:;;::::       </tspan>
-<tspan x="15" y="190">  :;::::::;;;;;;+++++;;;;;;;;;;;;;;;;::::::::      </tspan>
-<tspan x="15" y="210"> :;:::::;+xXXXXXXXXXxxxxxxxxxXXXxxx+;::::::+:     </tspan>
-<tspan x="15" y="230"> :;:::::;X$$$$$$$$$$$XXXXXXXXXXXXXXXXXXX+:::::;:   </tspan>
-<tspan x="15" y="250"> :;::::;X$$$$$$$$X$$$$$XXX$XXXXXXXXXXXXXX+:::::    </tspan>
-<tspan x="15" y="270">  ::::;xX$$$$$$$$$$X$$$$X$XXXX$$$$XXXXXXXx;;::::  </tspan>
-<tspan x="15" y="290">  ::;;+XX$$$$XXXXXXXXXXXXXXXXXXX$XXXXXXXXx+;::::  </tspan>
-<tspan x="15" y="310">  :;;;xXX$$$$X$XXXXXXXXXXXXXXXXXXXXXXXXXXX+;::;   </tspan>
-<tspan x="15" y="330">  :;;+xX$$$$$$$$$$$$XXXXXX$$$$$$$X$$XXXXXX+;:;:   </tspan>
-<tspan x="15" y="350">   ;;+XX$$$$$$$$$X$$$$$$$$$$$$$$XX$XXXXXXXx::;:   </tspan>
-<tspan x="15" y="370">    ;;+X$$XXxx+++++xxXXXXXXXXXx++;;;;++++Xxx;::   </tspan>
-<tspan x="15" y="390">    ;+xX+;+;;;;:;;;;;xXXXXXXx;;;;;;;;;;;::;x;::  </tspan>
-<tspan x="15" y="410">    :;X++xxXXXXXxx+++xxXXXxx+++++xxXXXXXxx++;::   </tspan>
-<tspan x="15" y="430">    :;XXXxx+Xx+::;+++xxX$$Xx+++++;;::++++xxxx;::  </tspan>
-<tspan x="15" y="450">  ;xXxXXXxx;+x;;;xxxxXXX$$XxxxXXXx+;+x++xxXXx+  </tspan>
-<tspan x="15" y="470">  :xX$xX$$$XxxxxxxxxXXXXX$$XxxXXXXXxxxxxXXX$Xx+  </tspan>
-<tspan x="15" y="490">  :XX$XX$$$$$$$XXXXXXXXXXX$XxxxXXXX$$$$$$$$XXxxX  </tspan>
-<tspan x="15" y="510">  :X$XXXX$$$$$$XX$$$$XXXXX$XxxxXXXXXX$$$XX$XXx+  </tspan>
+<tspan x="15" y="30">                 ..;;:::;;;:.                </tspan>
+<tspan x="15" y="50">              .:::::::..:::::::.             </tspan>
+<tspan x="15" y="70">            .:....::::::::::::::..           </tspan>
+<tspan x="15" y="90">           .:.....:::::::::::::::..          </tspan>
+<tspan x="15" y="110">          .:...;xxxxxx;;++++++:...:.         </tspan>
+<tspan x="15" y="130">          :..:XXXXXXXXXXXXXXXXXx....         </tspan>
+<tspan x="15" y="150">          ..:xXXXXXXXXXXXXXXXXXx;:..         </tspan>
+<tspan x="15" y="170">          .:;XXXXXXXXXXXXXXXXXXx+::.         </tspan>
+<tspan x="15" y="190">           :+X$$XXXXXXXXXXXXXXXx+:.          </tspan>
+<tspan x="15" y="210">           :x+;;:::;+xxx+:::::::+:.          </tspan>
+<tspan x="15" y="230">           :xxx+x++;+xXx;;+;+++++;.          </tspan>
+<tspan x="15" y="250">         .+xXXx+x+xxXXXxxxxxx++XX++:         </tspan>
+<tspan x="15" y="270">         :XXX$$$XXXXXXXxxxXXXXXXX+X+         </tspan>
+<tspan x="15" y="290">         .XxXXXXXXXXxXXXxxXXXXXXx+X;         </tspan>
+<tspan x="15" y="310">          xXxXXXXXXXXXXXxxxXXXXxx+X.         </tspan>
+<tspan x="15" y="330">           ;+XXXXXXXxx+;;+XXXXXxx:.          </tspan>
+<tspan x="15" y="350">            :xXXXxxxxXxXxxxxxXXx+            </tspan>
+<tspan x="15" y="370">             +XXXx;+++++;;:xXXxx:            </tspan>
+<tspan x="15" y="390">           ...xXXXXx++++++xXxxx:.....        </tspan>
+<tspan x="15" y="410">      ........:+xXXXx+;;+xXxx+;:.........   </tspan>
+<tspan x="15" y="430">  ............:x+xXXXXXXXXxx;:+;.............  </tspan>
+<tspan x="15" y="450">................xx+;xxxxxxx;:;+++.............. </tspan>
+<tspan x="15" y="470">................;xxx+;:..::;+++x:................</tspan>
+<tspan x="15" y="490">.................+xx+x+++++++xx+.................</tspan>
+<tspan x="15" y="510">..................;xx++++++++x+..................</tspan>
 </text>
 <text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">efe@karabas</tspan> -———————————————————————————————————————————-—-
